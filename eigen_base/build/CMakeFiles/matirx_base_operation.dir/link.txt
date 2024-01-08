@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/matirx_base_operation.dir/src/matirx_base_operation.cpp.o  -o matirx_base_operation 

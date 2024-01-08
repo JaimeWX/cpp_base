@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/matrices_and_vectors.dir/src/matrices_and_vectors.cpp.o  -o matrices_and_vectors 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/matrix_initializer.dir/src/matrix_initializer.cpp.o  -o matrix_initializer 

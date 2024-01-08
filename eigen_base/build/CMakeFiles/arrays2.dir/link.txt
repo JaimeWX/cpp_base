@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/arrays2.dir/src/arrays2.cpp.o  -o arrays2 

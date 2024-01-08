@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/dot_cross.dir/src/dot_cross.cpp.o  -o dot_cross 

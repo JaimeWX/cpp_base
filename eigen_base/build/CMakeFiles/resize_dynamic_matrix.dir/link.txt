@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/resize_dynamic_matrix.dir/src/resize_dynamic_matrix.cpp.o  -o resize_dynamic_matrix 
